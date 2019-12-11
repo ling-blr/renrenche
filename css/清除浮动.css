@@ -1,0 +1,16 @@
+.float:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.box {
+    zoom: 1;
+    /* .box是父级名字 */
+    }
+.fl{
+    float:left;
+}
+.fr{
+    float:right;;
+}
